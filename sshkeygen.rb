@@ -4,6 +4,6 @@ get '/' do
   erb :login
 end
 
-get '/' do
+get '/sshgen' do
   erb :index
 end
