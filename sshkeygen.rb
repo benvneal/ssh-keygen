@@ -8,3 +8,7 @@ end
 post '/sshgen' do
   erb :index
 end
+
+post '/generate' do
+  'testing page'
+end
